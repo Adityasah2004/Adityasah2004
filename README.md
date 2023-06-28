@@ -52,7 +52,7 @@ Let's connect and build amazing things together!
 | :----------------------------------------------|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/769px-Instagram-Icon.png" width="20px" height="20px" alt="Instagram">](https://instagram.com/adityasah._?igshid=MzNlNGNkZWQ4Mg==) - Connect with me on Instagram. |
 | [<img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" width="20px" height="20px" alt="Twitter">](https://twitter.com/_Adityasah?t=2HFex72j-e-xWe7rjEo7Yw&s=08) - Follow me on Twitter. |
-| [<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png width="20px" height="20px" alt="Blog">](https://www.linkedin.com/in/aditya-sah-a302ab22b) - Visit my LinkedIn for blog, articles, and insights. |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="20px" height="20px" alt="Blog">](https://www.linkedin.com/in/aditya-sah-a302ab22b) - Visit my LinkedIn for blog, articles, and insights. |
 
 
 Feel free to reach out to me on any of these platforms. I'm always happy to connect and engage in meaningful discussions.
