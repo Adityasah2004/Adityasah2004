@@ -124,7 +124,7 @@ Feel free to reach out to me on any of these platforms. I'm always happy to conn
 
 Feel free to reach out to me for any inquiries or collaboration opportunities. I'm always open to new projects and challenges!
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adityasah2004&label=Profile%20views&color=blueviolet&style=flat-square" alt="adityasah200" />
 </p>
 
