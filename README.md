@@ -30,7 +30,6 @@ I'm Aditya, an aspiring software developer from India. I have a passion for codi
 
 I'm actively seeking new opportunities to apply and expand my knowledge in software development. Feel free to reach out to me if you have any exciting projects or opportunities to collaborate.
 
-
 <details>
 <summary><strong>Important Links</strong></summary>
 
@@ -40,8 +39,6 @@ I'm actively seeking new opportunities to apply and expand my knowledge in softw
 - [Resume](https://drive.google.com/file/d/1fOXgd-dkt5k9ACWh-o7pMYQ7i4h5qbbw/view?usp=drivesdk) - View my resume.
 
 </details>
-
-
 
 Let's connect and build amazing things together!
 
