@@ -30,7 +30,7 @@ I'm Aditya, an aspiring software developer from India. I have a passion for codi
 
 I'm actively seeking new opportunities to apply and expand my knowledge in software development. Feel free to reach out to me if you have any exciting projects or opportunities to collaborate.
 
-<br><details>
+<details>
 <summary><strong>Important Links</strong></summary>
 
 - [GitHub](https://github.com/Adityasah2004) - Check out my GitHub profile.
@@ -38,7 +38,7 @@ I'm actively seeking new opportunities to apply and expand my knowledge in softw
 - [LinkedIn](https://www.linkedin.com/in/aditya-sah-a302ab22b) - Connect with me on LinkedIn.
 - [Resume](https://drive.google.com/file/d/1fOXgd-dkt5k9ACWh-o7pMYQ7i4h5qbbw/view?usp=drivesdk) - View my resume.
 
-</details><br>
+</details>
 
 
 Let's connect and build amazing things together!
