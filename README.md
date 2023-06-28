@@ -34,8 +34,11 @@ I'm actively seeking new opportunities to apply and expand my knowledge in softw
 <summary><strong>Important Links</strong></summary>
 
 - [GitHub](https://github.com/Adityasah2004) - Check out my GitHub profile.
+
 - [Portfolio](https://adityasah2004.github.io) - Explore my portfolio website.
+
 - [LinkedIn](https://www.linkedin.com/in/aditya-sah-a302ab22b) - Connect with me on LinkedIn.
+
 - [Resume](https://drive.google.com/file/d/1fOXgd-dkt5k9ACWh-o7pMYQ7i4h5qbbw/view?usp=drivesdk) - View my resume.
 
 </details>
