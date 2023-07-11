@@ -63,7 +63,7 @@ Feel free to reach out to me on any of these platforms. I'm always happy to conn
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=Adityasah2004&show_icons=true&theme=radical" alt="Aditya's GitHub stats" style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasah2004&layout=donut&theme=radical" alt="Top Langs" style="width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasah200&layout=donut&theme=radical" alt="Top Langs" style="width: 45%;">
 </div>
 
 </details>
