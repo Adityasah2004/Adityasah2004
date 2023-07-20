@@ -37,7 +37,7 @@ I'm actively seeking new opportunities to apply and expand my knowledge in softw
     <li><a href="https://github.com/Adityasah2004">GitHub</a> - Check out my GitHub profile.</li>
     <li><a href="https://adityasah2004.github.io/Adityasah2004/">Portfolio</a> - Explore my portfolio website.</li>
     <li><a href="https://www.linkedin.com/in/aditya-sah-a302ab22b">LinkedIn</a> - Connect with me on LinkedIn.</li>
-    <li><a href="https://drive.google.com/file/d/1fOXgd-dkt5k9ACWh-o7pMYQ7i4h5qbbw/view?usp=drivesdk">Resume</a> - View my resume.</li>
+    <li><a href="[https://drive.google.com/file/d/1fOXgd-dkt5k9ACWh-o7pMYQ7i4h5qbbw/view?usp=drivesdk](https://drive.google.com/file/d/17RLS3fWOPO1pLcJ4OL_bPIkq3TaZ1cxi/view?usp=drivesdk)">Resume</a> - View my resume.</li>
   </ul>
 
 </details>
