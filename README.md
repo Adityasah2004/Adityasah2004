@@ -10,10 +10,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ysabeau+SC&pause=1000&color=F70000&center=true&width=435&lines=Hey+there!+I+am+Aditya+;I'm+an+aspiring+software+developer+from+India" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Ysabeau+SC&pause=1000&color=00FFF&center=true&width=435&lines=Hey+there!+I+am+Aditya+;I'm+an+aspiring+software+developer+from+India" alt="Typing SVG">
 </p>
 
 <p align="center">Passionate about coding and building awesome software solutions.</p>
+
+<div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasah2004&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Aditya sah" /></div>
+
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Adityasah2004&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Aditya sah github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasah2004&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 ## About Me
 
@@ -57,7 +64,7 @@ Feel free to reach out to me on any of these platforms. I'm always happy to conn
 
 ---
 
-<details>
+<!-- <details>
 <summary><strong>📊 GitHub Statistics</strong></summary>
 
 <div style="display: flex; justify-content: space-between;">
@@ -65,7 +72,7 @@ Feel free to reach out to me on any of these platforms. I'm always happy to conn
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasah2004&layout=donut&theme=radical" alt="Top Langs" style="width: 45%;">
 </div>
 
-</details>
+</details> -->
 
 
 ---
@@ -127,5 +134,4 @@ Feel free to reach out to me for any inquiries or collaboration opportunities. I
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adityasah2004&label=Profile%20views&color=ff00ff&style=plastic" alt="adityasah200" />
 </p>
-
 
