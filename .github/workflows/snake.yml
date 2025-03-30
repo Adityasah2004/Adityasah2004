@@ -1,35 +1,31 @@
-name: Generate 3D Contribution Snake
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual execution
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Contribution Snake
+      - name: Create Output Directory
+        run: mkdir -p dist  # Ensures output folder exists
+
+      - name: Generate Contribution Graph
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+          github_user_name: Adityasah2004
+          svg_out_path: dist/github-contribution-grid-snake.svg  # Corrected output path
 
-      - name: Upload Artifacts
+      - name: List Output Directory (Debugging)
+        run: ls -R dist  # Checks if the SVG file is present
+
+      - name: Upload Generated File
         uses: actions/upload-artifact@v4
         with:
-          name: contribution-snake
-          path: dist/
-
-      - name: Commit & Push SVG
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Updated contribution graph" || echo "No changes to commit"
-          git push
+          name: github-contribution-grid-snake
+          path: dist/github-contribution-grid-snake.svg
