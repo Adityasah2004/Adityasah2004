@@ -22,20 +22,36 @@
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasah2004&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## About Me
+## About Me  
 
-I'm Aditya, an aspiring software developer from India. I have a passion for coding and enjoy working on various projects to enhance my skills. My journey in the field of software development started during my college days, where I pursued a Bachelor's degree in Electronics and Telecommunication Engineering.
+I'm **Aditya**, an aspiring software developer from India with a strong passion for **coding and problem-solving**.  
+My journey in software development began during my college days, where I pursued a **Bachelor's degree in Electronics and Telecommunication Engineering**.  
+Since then, I've been actively working on various projects to enhance my skills and explore emerging technologies.  
 
-### Interests
+## Interests & Expertise  
 
-- Developing scalable and efficient software solutions
-- Exploring new technologies and frameworks
-- Collaborating with others to solve complex problems
-- Continuous learning and self-improvement in the field of software development
-- Making/Redesigning in Figma
+- **Full-Stack Development**:  
+  I work with **React (Vite), Tailwind CSS, and FastAPI** to build scalable and efficient web applications.  
 
-I'm actively seeking new opportunities to apply and expand my knowledge in software development. Feel free to reach out to me if you have any exciting projects or opportunities to collaborate.
+- **Machine Learning & AI**:  
+  I’m exploring **ML, neural networks, image processing, and generative models** and applying them to real-world problems.  
 
+- **UI/UX Design**:  
+  I’m passionate about **creating intuitive and visually appealing designs** using **Figma**.  
+
+- **Data Science & Visualization**:  
+  I love working with **data analytics, visualization (Power BI), and sorting algorithms** to derive meaningful insights.  
+
+- **Project Development & Experimentation**:  
+  I enjoy experimenting with **Raspberry Pi**, cloud platforms like **Google Cloud Platform (GCP) with NVIDIA GPUs**, and AI tools like **Omniverse and Audio2Face**.  
+
+## What I'm Looking For  
+
+I’m always eager to **learn, collaborate, and contribute** to exciting projects.  
+If you’re working on something innovative—whether in **AI, full-stack development, or data science**—I’d love to connect!
+
+
+<!---
 <details>
   <summary><strong>Important Links</strong></summary>
 
@@ -72,7 +88,7 @@ Feel free to reach out to me on any of these platforms. I'm always happy to conn
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasah2004&layout=donut&theme=radical" alt="Top Langs" style="width: 45%;">
 </div>
 
-</details> -->
+</details> 
 
 
 ---
@@ -130,7 +146,7 @@ Feel free to reach out to me on any of these platforms. I'm always happy to conn
 - Portfolio: [Aditya's Portfolio](https://adityasah2004.github.io/Adityasah2004/)
 
 Feel free to reach out to me for any inquiries or collaboration opportunities. I'm always open to new projects and challenges!
-
+-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adityasah2004&label=Profile%20views&color=ff00ff&style=plastic" alt="adityasah200" />
 </p>
