@@ -33,10 +33,7 @@
   </div>
 
 ### 🏆 GitHub Contribution Graph
-
-![GitHub Contribution Graph](https://raw.githubusercontent.com/Adityasah2004/Adityasah2004/main/github-contribution-grid-snake.svg)
-
-
+![GitHub contribution grid snake animation](./dist/github-contribution-grid-snake.svg)
 </div>
 
 ---
