@@ -32,10 +32,10 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasah2004&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   </div>
 
-  ### 📌 GitHub Contribution Graph  
-<div align="center">
-  <img src="https://github.com/Adityasah2004/Adityasah2004/blob/main/github-user-contribution.svg" alt="3D GitHub Contribution Graph">
-</div>
+### 🏆 GitHub Contribution Graph
+
+![GitHub Contribution Graph](https://raw.githubusercontent.com/Adityasah2004/Adityasah2004/main/github-contribution-grid-snake.svg)
+
 
 </div>
 
