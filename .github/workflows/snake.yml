@@ -29,3 +29,4 @@ jobs:
           git add github-contribution-grid-snake.svg
           git commit -m "Updated GitHub contribution graph"
           git push
+
