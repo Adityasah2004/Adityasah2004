@@ -3,18 +3,29 @@ name: Generate 3D Contribution Graph
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:  # Allows manual trigger
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout Repository
+        uses: actions/checkout@v4  # Ensures the repo is available
+
+      - name: Create Output Directory
+        run: mkdir -p dist  # Ensures output folder exists
+
+      - name: Generate Contribution Graph
+        uses: Platane/snk@master
         with:
           github_user_name: Adityasah2004
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v4  # Updated to v4
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: List Output Directory (Debugging)
+        run: ls -R dist  # This helps check if the file is generated
+
+      - name: Upload Generated File
+        uses: actions/upload-artifact@v4
         with:
           name: github-contribution-grid-snake
           path: dist/github-contribution-grid-snake.svg
