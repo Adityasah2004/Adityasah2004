@@ -1,9 +1,12 @@
 name: Generate 3D Contribution Graph
-
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC (fixed cron syntax)
   workflow_dispatch:  # Allows manual execution
+
+# Add these permissions to allow pushing to repository
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,29 +14,29 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-
+      
       - name: Create Output Directory
         run: mkdir -p dist  # Ensures output folder exists
-
+      
       - name: Generate Contribution Graph
         uses: Platane/snk@master
         with:
           github_user_name: Adityasah2004
-          svg_out_path: dist/github-contribution-grid-snake.svg  # Corrected output path
-
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      
       - name: List Output Directory (Debugging)
         run: ls -R dist  # Checks if the SVG file is present
-
+      
       - name: Upload Generated File
         uses: actions/upload-artifact@v4
         with:
           name: github-contribution-grid-snake
           path: dist/github-contribution-grid-snake.svg
-          # Add this to your workflow file after generating the SVG
+      
       - name: Push SVG to Repository
         run: |
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add dist/github-contribution-grid-snake.svg
-            git commit -m "Update contribution snake"
-            git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake"
+          git push
