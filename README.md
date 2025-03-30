@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Aditya! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Animated Emoji" style="width: 30px; vertical-align: middle; padding-bottom: 12px;"></h1>
+<h1 align="center">Hi there, I'm Aditya! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-sah-a302ab22b" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="sahaditya59@gmail.com" target="_blank">
+  <a href="mailto:sahaditya59@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -13,43 +13,55 @@
   <img src="https://readme-typing-svg.demolab.com?font=Ysabeau+SC&pause=1000&color=00FFF&center=true&width=435&lines=Hey+there!+I+am+Aditya+;I'm+an+aspiring+software+developer+from+India" alt="Typing SVG">
 </p>
 
-<p align="center">Passionate about coding and building awesome software solutions.</p>
+---
 
-<div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasah2004&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Aditya sah" /></div>
+### **🚀 About Me** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+- 🎓 **Pursuing a Bachelor's in Electronics & Telecommunication Engineering** (3rd Year, Graduating in 2026)
+- 💻 Passionate about **Full-Stack Development**, **Machine Learning**, & **AI**  
+- 🚀 Building **AI-powered applications & data-driven solutions**  
+- 🌎 Exploring **Raspberry Pi, NVIDIA GPUs (GCP), Omniverse, and Audio2Face**  
+
+---
+
+### **📊 GitHub Stats**
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Adityasah2004&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Aditya sah github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasah2004&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasah2004&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" />
+  <div>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Adityasah2004&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasah2004&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  </div>
+
+  ### 📌 3D GitHub Contribution Graph  
+<div align="center">
+  <img src="https://github.com/Adityasah2004/Adityasah2004/raw/main/assets/github-contribution-grid-snake.svg" alt="3D GitHub Contribution Graph">
 </div>
 
-## About Me  
+</div>
 
-I'm **Aditya**, an aspiring software developer from India with a strong passion for **coding and problem-solving**.  
-My journey in software development began during my college days, where I pursued a **Bachelor's degree in Electronics and Telecommunication Engineering**.  
-Since then, I've been actively working on various projects to enhance my skills and explore emerging technologies.  
+---
 
-## Interests & Expertise  
+### **⚡ Interests & Expertise**
+- 🔥 **Full-Stack Development** → **React (Vite), Tailwind CSS, FastAPI**  
+- 🤖 **Machine Learning & AI** → **Neural Networks, Generative Models, Image Processing**  
+- 🎨 **UI/UX Design** → **Figma, Intuitive Interfaces, Design Systems**  
+- 📊 **Data Science & Visualization** → **Power BI, Data Analytics, Sorting Algorithms**  
+- 🔬 **Experimentation** → **Raspberry Pi, Cloud Computing (GCP), AI in Healthcare**  
 
-- **Full-Stack Development**:  
-  I work with **React (Vite), Tailwind CSS, and FastAPI** to build scalable and efficient web applications.  
+---
 
-- **Machine Learning & AI**:  
-  I’m exploring **ML, neural networks, image processing, and generative models** and applying them to real-world problems.  
+### **📢 Let's Connect!**
+💡 I’m always open to collaborating on **AI, full-stack projects, or innovative experiments**.  
+📩 Feel free to **reach out** via [LinkedIn](https://www.linkedin.com/in/aditya-sah-a302ab22b) or [Email](mailto:sahaditya59@gmail.com)!  
 
-- **UI/UX Design**:  
-  I’m passionate about **creating intuitive and visually appealing designs** using **Figma**.  
+---
 
-- **Data Science & Visualization**:  
-  I love working with **data analytics, visualization (Power BI), and sorting algorithms** to derive meaningful insights.  
+### **🔗 fetch-adityasah**
+A cool **terminal** display inspired by `neofetch`:
 
-- **Project Development & Experimentation**:  
-  I enjoy experimenting with **Raspberry Pi**, cloud platforms like **Google Cloud Platform (GCP) with NVIDIA GPUs**, and AI tools like **Omniverse and Audio2Face**.  
-
-## What I'm Looking For  
-
-I’m always eager to **learn, collaborate, and contribute** to exciting projects.  
-If you’re working on something innovative—whether in **AI, full-stack development, or data science**—I’d love to connect!
-
+```sh
+npx adityasah
+```
 
 <!---
 <details>
@@ -148,6 +160,9 @@ Feel free to reach out to me on any of these platforms. I'm always happy to conn
 Feel free to reach out to me for any inquiries or collaboration opportunities. I'm always open to new projects and challenges!
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adityasah2004&label=Profile%20views&color=ff00ff&style=plastic" alt="adityasah200" />
+  ✨ Looking forward to innovating together! <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Adityasah2004&label=Profile%20views&color=ff00ff&style=plastic" alt="adityasah200"/>
 </p>
+
+
 
